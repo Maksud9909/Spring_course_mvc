@@ -9,21 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9779d841-4b77-4fd7-9b77-a2c4dc2db9da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/ask-emp-details-view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/first-view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show-emp-details-view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="9779d841-4b77-4fd7-9b77-a2c4dc2db9da" name="Changes" comment="Ending of Spring MVC">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/validation/CheckEmailValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/validation/CheckEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maksud/spring/mvc/validation/CheckEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show-emp-details-view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show-emp-details-view.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,8 +175,24 @@
       <workItem from="1704103102966" duration="1799000" />
       <workItem from="1704105447733" duration="374000" />
       <workItem from="1704107811639" duration="1302000" />
-      <workItem from="1704112218009" duration="2778000" />
+      <workItem from="1704112218009" duration="4222000" />
+      <workItem from="1704266330348" duration="673000" />
+      <workItem from="1704349075328" duration="1198000" />
+      <workItem from="1704363229146" duration="115000" />
     </task>
+    <task id="LOCAL-00001" summary="Ending of Spring MVC">
+      <option name="closed" value="true" />
+      <created>1704115221857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704115221857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ending of Spring MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ending of Spring MVC" />
   </component>
 </project>

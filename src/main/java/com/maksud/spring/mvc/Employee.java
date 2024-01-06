@@ -1,5 +1,7 @@
 package com.maksud.spring.mvc;
 
+import com.maksud.spring.mvc.validation.CheckEmail;
+
 import javax.validation.constraints.*;
 import java.util.HashMap;
 import java.util.Map;
@@ -22,6 +24,7 @@ public class Employee {
     private Map<String,String> languageList;
     @Pattern(regexp = "^\\d{2}\\d{3}\\d{2}\\d{2}$",message = "Please use this pattern XX-XXX-XX-XX")
     private String phoneNumber;
+    @CheckEmail
     private String email;
 
 
